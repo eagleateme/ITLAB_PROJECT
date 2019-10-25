@@ -1,0 +1,20 @@
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\csc.exe
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\vbc.exe
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\Placement Portal.dll.config
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\Placement Portal.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\Placement Portal.pdb
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\obj\Debug\Placement Portal.csprojResolveAssemblyReference.cache
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\obj\Debug\Placement Portal.dll
+C:\Users\Mahe\Desktop\IT Lab Project\Placement Portal\Placement Portal\obj\Debug\Placement Portal.pdb

@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Placement_Portal.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>The Master Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="height: 464px">
+    <header>
+        <asp:Image ID="Image1" runat="server" AlternateText= "MIT LOGO" ImageUrl="~/images//MIT_LOGO.jpg" />
+    </header>
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+        
+        <footer style="bottom:0px; position:absolute">
+            <asp:Image ID="Image2" runat="server" AlternateText= "FOOTER" ImageUrl="~/images/Contact_footer.jpg" />
+        </footer>
+</body>
+</html>
